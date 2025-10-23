@@ -1,0 +1,66 @@
+                                                                                          🧠 Typing Game
+
+A fun and interactive Typing Speed Test Game built using HTML, CSS, and JavaScript.
+This project challenges users to improve their typing speed and accuracy while tracking key performance metrics such as WPM (Words Per Minute), CPM (Characters Per Minute), Mistakes, and Time Left.
+
+🚀 Features
+
+⏱️ Countdown Timer — 60 seconds to test your typing speed.
+
+✍️ Dynamic Paragraphs — Random text appears for typing.
+
+🧮 Real-time Stats — Tracks WPM, CPM, and Mistakes dynamically.
+
+🔁 Restart Button — Instantly restart the test with a new paragraph.
+
+📱 Responsive Design — Works well on desktop and mobile screens.
+
+
+Typing-Game/
+│
+├── index.html        # Main HTML file
+├── style.css         # Styling for the game UI
+└── script.js         # Game logic and functionality
+
+💻 Technologies Used
+
+HTML5 – Structure of the game
+
+CSS3 – For layout and styling
+
+JavaScript (ES6) – Handles logic, timing, and user interactions
+
+
+
+🎮 How to Play
+
+When the page loads, click inside the input box to start typing.
+
+Type the displayed paragraph as accurately and quickly as possible.
+
+Keep an eye on your stats:
+
+🕒 Time Left — 60 seconds countdown
+
+❌ Mistakes — Number of incorrect keystrokes
+
+⚡ WPM — Words typed per minute
+
+🔤 CPM — Characters typed per minute
+
+When time runs out, you can click “Try Again” to restart.
+
+🧠 Future Enhancements
+
+Add multiple difficulty levels (easy, medium, hard)
+
+Store user’s best score using localStorage
+
+Add sound effects for typing and errors
+
+Dark mode / light mode toggle
+
+👨‍💻 Author
+
+Suman Mandal
+💼 Machine Learning Developer | Web Developer

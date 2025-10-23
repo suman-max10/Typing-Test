@@ -1,3 +1,11 @@
+
+
+
+https://suman-max10.github.io/Typing-Test/
+
+                                                                                          
+                                                                                          
+                                                                                          
                                                                                           🧠 Typing Game
 
 A fun and interactive Typing Speed Test Game built using HTML, CSS, and JavaScript.
@@ -61,6 +69,9 @@ Add sound effects for typing and errors
 Dark mode / light mode toggle
 
 👨‍💻 Author
+
+
+
 
 Suman Mandal
 💼 Machine Learning Developer | Web Developer
